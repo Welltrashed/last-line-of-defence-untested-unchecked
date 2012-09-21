@@ -97,7 +97,7 @@ UPDATE `creature_template` SET `minrangedmg`=1000,`maxrangedmg`=2000,`InhabitTyp
 -- ------------------------------------------ --
 -- quest "The Last Line Of Defense" 13086 fix --
 -- ------------------------------------------ --
--- on retail players can use Argent Canon to pew-pew quest mobs,
+-- On retail players can use The Argent Canon to destroy the quest Npc`s,
 -- since it's more like science-fiction for us, players are allowed to kill mobs by sword and fire.
 -- NPC "Frostbrood Destroyer" 30575 needed for quest credit #2 added and spawned
 UPDATE `creature_template`
